@@ -1,5 +1,5 @@
-# JavaSampleCode1
-Javaのサンプルコードその１
+# Java_SampleCode3
+西暦から和暦を割り出す
 
 #### 処理
 昭和元年から10年までの西暦和暦変換を行います
