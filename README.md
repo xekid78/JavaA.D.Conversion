@@ -1,4 +1,4 @@
-# Java_SampleCode3
+# JavaSampleCode3
 西暦から和暦を割り出す
 
 #### 処理
