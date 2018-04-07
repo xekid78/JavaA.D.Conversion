@@ -6,16 +6,15 @@
 
 ## コード
 ```
-public class Ccalcov {
-
+public class Ccalconv {
 	public static void main(String[] args) {
-		for(int seireki = 1926; seireki <= 1935; seireki++) {
+		int seireki, syowa;
+		for(seireki = 1926; seireki <= 1935; seireki++) {
 			System.out.print("西暦" + seireki + "年は");
-			int syowa = seireki - 1925;
+			syowa = seireki - 1925;
 			System.out.println("昭和" + syowa + "年です");
 		}
 	}
-
 }
 ```
 
